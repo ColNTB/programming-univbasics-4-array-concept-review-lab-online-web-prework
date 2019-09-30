@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  result 
+  result = nil
   count = 0
   while count<=array.length 
     if array[count]==value_to_find
